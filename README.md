@@ -199,7 +199,9 @@ Contributions are welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelin
 ## Also by WEDGE Method
 
 - **[awesome-solopreneur-ai](https://github.com/jakeolschewski/awesome-solopreneur-ai)** — 367+ curated AI tools for solopreneurs, freelancers, and one-person businesses
+- [WedgeGuard](https://github.com/jakeolschewski/wedgeguard) — VS Code extension: lock code with Wedges, generate with local AI
 - **[business-prompts](https://github.com/jakeolschewski/business-prompts)** — 94 production-ready AI prompts for every business function
+- [WedgeGuard](https://github.com/jakeolschewski/wedgeguard) — VS Code extension: lock code with Wedges, generate with local AI
 - **[WEDGE Autopilot](https://thewedgemethodai.com)** — The full AI consulting suite (SaaS)
 
 ---

@@ -196,6 +196,14 @@ Contributions are welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelin
 
 ---
 
+## Also by WEDGE Method
+
+- **[awesome-solopreneur-ai](https://github.com/jakeolschewski/awesome-solopreneur-ai)** — 367+ curated AI tools for solopreneurs, freelancers, and one-person businesses
+- **[business-prompts](https://github.com/jakeolschewski/business-prompts)** — 94 production-ready AI prompts for every business function
+- **[WEDGE Autopilot](https://thewedgemethodai.com)** — The full AI consulting suite (SaaS)
+
+---
+
 ## Support the Project
 
 If consultant-ai saves you time, consider supporting development:

@@ -14,7 +14,11 @@
 
 > **Built by Jake Olschewski** — AI automation consultant, creator of [WEDGE Method](https://thewedgemethodai.com), author of 332+ published AI articles.
 >
-> 🚀 **[Get the AI Readiness Audit ($997)](https://buy.stripe.com/6oUdR93ureV54mecfybEA0k)** — Find out exactly where AI can save your business money. Use code `LAUNCH20` for 20% off.
+> 🚀 **[Get the AI Readiness Audit ($3,000)](https://buy.stripe.com/fZu4gz4yv6oz05YfrKbEA0p)** — Find out exactly where AI can save your business money. Use code `LAUNCH20` for 20% off — just $2,400.
+>
+> 📦 **[AI Automation Blueprint ($147)](https://buy.stripe.com/3cI8wP2qndR14me5RabEA0z)** — Templates, pricing calculator, SOW, and proposal for selling AI projects.
+>
+> 🛠️ **[AI Consulting Discovery Toolkit ($39)](https://buy.stripe.com/bJeaEX5Cz8wH05YfrKbEA0l)** — 50+ prompts and frameworks for AI consultants.
 
 > Part of the **[WEDGE Method ecosystem](https://thewedgemethodai.com)** — AI strategy and implementation for modern businesses.
 
@@ -251,8 +255,9 @@ If consultant-ai helps your workflow, consider supporting its development:
 
 - 🌐 [WEDGE Method AI](https://thewedgemethodai.com) — SaaS platform for AI-powered business automation
 - 📝 [332+ AI Articles on Dev.to](https://dev.to/wedgemethoddev) — tutorials, guides, and deep dives
-- 🔍 [NovaForge AI Readiness Audit](https://buy.stripe.com/6oUdR93ureV54mecfybEA0k) — comprehensive business AI assessment ($997)
-- 🛠️ [AI Consulting Discovery Toolkit](https://buy.stripe.com/bJeaEX5Cz8wH05YfrKbEA0l) — everything you need to start AI consulting ($39)
+- 🔍 [NovaForge AI Readiness Audit](https://buy.stripe.com/fZu4gz4yv6oz05YfrKbEA0p) — comprehensive business AI assessment ($3,000 — use LAUNCH20 for $2,400)
+- 📦 [AI Automation Blueprint](https://buy.stripe.com/3cI8wP2qndR14me5RabEA0z) — sell, scope, price, and deliver AI projects ($147)
+- 🛠️ [AI Consulting Discovery Toolkit](https://buy.stripe.com/bJeaEX5Cz8wH05YfrKbEA0l) — 50+ prompts and frameworks ($39)
 
 ---
 *Built with ❤️ by [Jake Olschewski](https://github.com/jakeolschewski) under WEDGE Method LLC*

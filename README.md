@@ -12,6 +12,10 @@
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue?style=flat-square)](https://modelcontextprotocol.io)
 [![Built by WEDGE Method](https://img.shields.io/badge/Built%20by-WEDGE%20Method-6B3FA0?style=flat-square)](https://thewedgemethodai.com)
 
+> **Built by Jake Olschewski** — AI automation consultant, creator of [WEDGE Method](https://thewedgemethodai.com), author of 332+ published AI articles.
+>
+> 🚀 **[Get the AI Readiness Audit ($997)](https://buy.stripe.com/6oUdR93ureV54mecfybEA0k)** — Find out exactly where AI can save your business money. Use code `LAUNCH20` for 20% off.
+
 > Part of the **[WEDGE Method ecosystem](https://thewedgemethodai.com)** — AI strategy and implementation for modern businesses.
 
 Connect to any MCP-compatible AI client — Claude Desktop, Cursor, ChatGPT — and get 10 production-ready consulting automation tools: proposals, invoices, SOWs, meeting prep, competitive analysis, time tracking, and more.
@@ -232,6 +236,26 @@ If consultant-ai saves you time, consider supporting development:
 ## License
 
 MIT © [WEDGE Method LLC](https://thewedgemethodai.com)
+
+---
+
+## 🤝 Support This Project
+
+If consultant-ai helps your workflow, consider supporting its development:
+
+- ⭐ **Star this repo** — it helps others discover it
+- 💖 **[Sponsor on GitHub](https://github.com/sponsors/jakeolschewski)** — fund continued development
+- 📧 **[Get the AI Consulting Discovery Toolkit ($39)](https://buy.stripe.com/bJeaEX5Cz8wH05YfrKbEA0l)** — 50+ prompts, frameworks, and templates for AI consultants
+
+## 🔗 More from Jake
+
+- 🌐 [WEDGE Method AI](https://thewedgemethodai.com) — SaaS platform for AI-powered business automation
+- 📝 [332+ AI Articles on Dev.to](https://dev.to/wedgemethoddev) — tutorials, guides, and deep dives
+- 🔍 [NovaForge AI Readiness Audit](https://buy.stripe.com/6oUdR93ureV54mecfybEA0k) — comprehensive business AI assessment ($997)
+- 🛠️ [AI Consulting Discovery Toolkit](https://buy.stripe.com/bJeaEX5Cz8wH05YfrKbEA0l) — everything you need to start AI consulting ($39)
+
+---
+*Built with ❤️ by [Jake Olschewski](https://github.com/jakeolschewski) under WEDGE Method LLC*
 
 ---
 

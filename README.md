@@ -4,8 +4,15 @@
 
 [![CI](https://github.com/jakeolschewski/consultant-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/jakeolschewski/consultant-ai/actions/workflows/ci.yml)
 [![npm version](https://badge.fury.io/js/consultant-ai.svg)](https://badge.fury.io/js/consultant-ai)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://modelcontextprotocol.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/jakeolschewski/consultant-ai?style=flat-square)](https://github.com/jakeolschewski/consultant-ai/stargazers)
+[![Forks](https://img.shields.io/github/forks/jakeolschewski/consultant-ai?style=flat-square)](https://github.com/jakeolschewski/consultant-ai/network/members)
+[![Issues](https://img.shields.io/github/issues/jakeolschewski/consultant-ai?style=flat-square)](https://github.com/jakeolschewski/consultant-ai/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/jakeolschewski/consultant-ai?style=flat-square)](https://github.com/jakeolschewski/consultant-ai/commits/main)
+[![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue?style=flat-square)](https://modelcontextprotocol.io)
+[![Built by WEDGE Method](https://img.shields.io/badge/Built%20by-WEDGE%20Method-6B3FA0?style=flat-square)](https://thewedgemethodai.com)
+
+> Part of the **[WEDGE Method ecosystem](https://thewedgemethodai.com)** — AI strategy and implementation for modern businesses.
 
 Connect to any MCP-compatible AI client — Claude Desktop, Cursor, ChatGPT — and get 10 production-ready consulting automation tools: proposals, invoices, SOWs, meeting prep, competitive analysis, time tracking, and more.
 
@@ -213,6 +220,12 @@ If consultant-ai saves you time, consider supporting development:
 - ⭐ Star this repo
 - [GitHub Sponsors](https://github.com/sponsors/jakeolschewski)
 - [WEDGE Method](https://thewedgemethodai.com)
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jakeolschewski/consultant-ai&type=Date)](https://star-history.com/#jakeolschewski/consultant-ai&Date)
 
 ---
 

@@ -22,6 +22,13 @@
 
 > Part of the **[WEDGE Method ecosystem](https://thewedgemethodai.com)** — AI strategy and implementation for modern businesses.
 
+## 🤝 Work With Me
+
+If these tools are useful, you might benefit from a custom AI consulting engagement.
+I help solopreneurs and small teams deploy AI workflows that save hours per week.
+
+**[→ Apply for a free AI Discovery Call](https://docs.google.com/forms/d/e/1FAIpQLSd0GSjcTxKsTopJkaXzH6WvkfQ8_d5hzWZKkfZ9QqmesWGPig/viewform)**
+
 Connect to any MCP-compatible AI client — Claude Desktop, Cursor, ChatGPT — and get 10 production-ready consulting automation tools: proposals, invoices, SOWs, meeting prep, competitive analysis, time tracking, and more.
 
 ---
@@ -265,3 +272,10 @@ If consultant-ai helps your workflow, consider supporting its development:
 ---
 
 *Built with [Model Context Protocol](https://modelcontextprotocol.io) · [WEDGE Method](https://thewedgemethodai.com)*
+
+## 🤝 Work With Me
+
+If these tools are useful, you might benefit from a custom AI consulting engagement.
+I help solopreneurs and small teams deploy AI workflows that save hours per week.
+
+**[→ Apply for a free AI Discovery Call](https://docs.google.com/forms/d/e/1FAIpQLSd0GSjcTxKsTopJkaXzH6WvkfQ8_d5hzWZKkfZ9QqmesWGPig/viewform)**
